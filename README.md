@@ -1,2 +1,6 @@
-# todo-list-app
-A small to-do list application to keep track of tasks.
+# Basic To-do List Application
+A small application to keep track of tasks.
+
+## Features
+ - Add new tasks
+ - Delete tasks
